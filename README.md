@@ -6,9 +6,9 @@
                                                                                      
 -->
 
-<!--
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=100&center=%E5%81%87&vCenter=%E5%81%87&multiline=true&repeat=%E7%9C%9F&width=435&height=80&lines=JUST-HLL-Vision;Energy+mechanism+%26+Auto+aim+;Infantry+operator)](https://git.io/typing-svg)
--->
+
 
 ![Highler23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Highler23&show_icons=true&theme=tokyonight)
 
